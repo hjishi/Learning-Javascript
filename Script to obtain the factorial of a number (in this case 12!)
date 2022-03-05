@@ -1,0 +1,7 @@
+//Script to obtain the factorial of 12; solution to x = 12! = ?
+var x = 12;
+z = 1;
+for (x; x >0; x--){
+    z *= x
+    }
+console.log(z)
